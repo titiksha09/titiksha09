@@ -1,5 +1,5 @@
 <img width=100% height = 300 src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" >
-<h1 align="center">Hi 👋 everyone, I'm Titiksha</h1>
+<h1 align="center"> 👋 I am  Titiksha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
  <img align = "right" alt="coding" width="40%" src = "https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
