@@ -1,7 +1,7 @@
-<img height='550' width='100%' src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img width=100% height = 300 src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" >
 <h1 align="center">Hi 👋 everyone, I'm Titiksha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- <img align = "right" alt="coding" width="250" src = "https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif">
+ <img align = "right" alt="coding" width="50%" src = "https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
 
 - 🔭 I’m currently working on **Frezzy Froggy**
 
