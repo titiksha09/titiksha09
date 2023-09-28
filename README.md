@@ -4,7 +4,7 @@
 <br>
  <img align = "right" alt="coding" width="40%" src = "https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
 
-- 🔭 I’m currently working on **Frezzy Froggy**
+- 🔭 I’m currently working on **Gems Quest**
 
 - 🌱 I’m currently learning **React native**
 
